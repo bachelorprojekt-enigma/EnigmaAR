@@ -1,0 +1,17 @@
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

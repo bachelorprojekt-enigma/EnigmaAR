@@ -1,0 +1,1 @@
+G:\Enigma\EnigmaMobileAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\build\intermediates\cxx\Debug\q1n523t2\obj\arm64-v8a

@@ -1,0 +1,10 @@
+# ninja log v5
+28	1282	7702455054798389	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	59867eedc6e53ee4
+41	1301	7702455054928425	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8c08ce9397542a84
+22	1314	7702455054908403	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c6e532b76475179f
+11	1322	7702455055163365	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1bd079d763842caa
+34	1355	7702455055613959	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7119d700b82cc54e
+6	1370	7702455055773923	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d27ccc7454824b92
+15	1454	7702455056598264	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8744889c2a7c57c0
+0	1530	7702455057356084	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f11cb2062754730b
+1530	1692	7702455059054779	G:/Enigma/EnigmaMobileAR/Library/PramData/AndroidApplicationController/Cache/com.unity.template.ar_mobile/gradle-project/unityLibrary/build/intermediates/cxx/Debug/q1n523t2/obj/arm64-v8a/libgame.so	350a8f00e6eb547
