@@ -1,0 +1,5 @@
+G:/GitHub/EnigmaAR/.utmp/Debug/2j3t3s22/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/GitHub/EnigmaAR/.utmp/Debug/2j3t3s22/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/GitHub/EnigmaAR/.utmp/Debug/2j3t3s22/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/GitHub/EnigmaAR/.utmp/Debug/2j3t3s22/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/GitHub/EnigmaAR/.utmp/Debug/2j3t3s22/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+G:\GitHub\EnigmaAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\CMakeLists.txt
+G:\GitHub\EnigmaAR\Library\PramData\AndroidApplicationController\Cache\com.unity.template.ar_mobile\gradle-project\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
