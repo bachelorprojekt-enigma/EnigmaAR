@@ -8,6 +8,8 @@ public class KeyboardInputHandler : MonoBehaviour
     public TMP_InputField inputField;
     public KeyboardVisualizer keyboardVisualizer;
 
+    public AudioSource audio;
+
     void Start()
     {
         //wird aktiviert, wenn sich im Inputfeld was verändert
@@ -21,6 +23,9 @@ public class KeyboardInputHandler : MonoBehaviour
             // Nimmt das zuletzt eingegebene Zeichen und übergibt es an den Keybirad Visualizer
             char lastChar = input[input.Length - 1];
             keyboardVisualizer.PressKey(lastChar);
+            
+            audio.Play();
+            
         }
     }
 }
