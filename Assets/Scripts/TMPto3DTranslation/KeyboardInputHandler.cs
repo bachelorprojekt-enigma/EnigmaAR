@@ -20,7 +20,7 @@ public class KeyboardInputHandler : MonoBehaviour
     {
         if (input.Length > 0)
         {
-            // Nimmt das zuletzt eingegebene Zeichen und übergibt es an den Keybirad Visualizer
+            // Nimmt das zuletzt eingegebene Zeichen und übergibt es an den Keyboard Visualizer
             char lastChar = input[input.Length - 1];
             keyboardVisualizer.PressKey(lastChar);
             
